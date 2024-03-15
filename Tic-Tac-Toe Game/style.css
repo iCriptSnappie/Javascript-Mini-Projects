@@ -75,3 +75,9 @@ body{
         margin-top: 10px;
     }
 }
+
+footer{
+    text-align: center;
+    position: relative;
+    bottom: -5rem;
+}
